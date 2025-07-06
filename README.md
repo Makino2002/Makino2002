@@ -11,7 +11,7 @@
 ## 🧠 Summary
 
 🚀 Web Developer Intern with a strong passion for building dynamic web applications and exploring new technologies.  
-🎓 Currently studying Physics - Informatics at University of Science, VNUHCM (GPA: 6.0/10).  
+🎓 Currently studying Physics - Informatics at University of Science, VNUHCM.  
 🏆 Top 10 Digitrans Smart City Semi-finalist | Second Prize at P-Master | Backend Rookie Hackathon participant.
 
 ---
