@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Nguyễn Minh Mẫn - Web Developer Intern</h1>
+<h1 align="center">👨‍💻 Nguyễn Minh Mẫn - software engineer junior</h1>
 
 <p align="center">
   <a href="mailto:maiphuc455@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
